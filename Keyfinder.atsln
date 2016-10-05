@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Keyfinder", "Keyfinder\Keyfinder.cppproj", "{4378EBA7-8687-4D5C-9FD1-66D3CA281364}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Remote", "Remote\Remote.cppproj", "{34152895-DE53-4BE1-9880-8BA844A21C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4378EBA7-8687-4D5C-9FD1-66D3CA281364}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4378EBA7-8687-4D5C-9FD1-66D3CA281364}.Debug|AVR.Build.0 = Debug|AVR
+		{4378EBA7-8687-4D5C-9FD1-66D3CA281364}.Release|AVR.ActiveCfg = Release|AVR
+		{4378EBA7-8687-4D5C-9FD1-66D3CA281364}.Release|AVR.Build.0 = Release|AVR
+		{34152895-DE53-4BE1-9880-8BA844A21C80}.Debug|AVR.ActiveCfg = Debug|AVR
+		{34152895-DE53-4BE1-9880-8BA844A21C80}.Debug|AVR.Build.0 = Debug|AVR
+		{34152895-DE53-4BE1-9880-8BA844A21C80}.Release|AVR.ActiveCfg = Release|AVR
+		{34152895-DE53-4BE1-9880-8BA844A21C80}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
